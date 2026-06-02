@@ -1,0 +1,6 @@
+disease_key,status_key,treatment_1_key,treatment_2_key,treatment_3_key
+appleScab,infected,treatment1,treatment2,treatment3
+healthyLeaf,healthy,healthy_t1,healthy_t2,healthy_t3
+lateBlight,infected,lateBlight_t1,lateBlight_t2,lateBlight_t3
+leafSmut,infected,leafSmut_t1,leafSmut_t2,leafSmut_t3
+powderyMildew,infected,powderyMildew_t1,powderyMildew_t2,powderyMildew_t3
